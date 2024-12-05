@@ -1,0 +1,328 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\2A-DS-PI\\4 Bimestre duplas\\Turma B\\Jo\u00E3o A. e Ramon\\DS\\Login\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29207484-23F4-43E1-B850-5C7479930B39}|Login\\Login.csproj|f:\\2a-ds-pi\\4 bimestre duplas\\turma b\\jo\u00E3o a. e ramon\\ds\\login\\login\\views\\home\\painelcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29207484-23F4-43E1-B850-5C7479930B39}|Login\\Login.csproj|solutionrelative:login\\views\\home\\painelcliente.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29207484-23F4-43E1-B850-5C7479930B39}|Login\\Login.csproj|f:\\2a-ds-pi\\4 bimestre duplas\\turma b\\jo\u00E3o a. e ramon\\ds\\login\\login\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29207484-23F4-43E1-B850-5C7479930B39}|Login\\Login.csproj|solutionrelative:login\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29207484-23F4-43E1-B850-5C7479930B39}|Login\\Login.csproj|f:\\2a-ds-pi\\4 bimestre duplas\\turma b\\jo\u00E3o a. e ramon\\ds\\login\\login\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29207484-23F4-43E1-B850-5C7479930B39}|Login\\Login.csproj|solutionrelative:login\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29207484-23F4-43E1-B850-5C7479930B39}|Login\\Login.csproj|f:\\2a-ds-pi\\4 bimestre duplas\\turma b\\jo\u00E3o a. e ramon\\ds\\login\\login\\repository\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29207484-23F4-43E1-B850-5C7479930B39}|Login\\Login.csproj|solutionrelative:login\\repository\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29207484-23F4-43E1-B850-5C7479930B39}|Login\\Login.csproj|f:\\2a-ds-pi\\4 bimestre duplas\\turma b\\jo\u00E3o a. e ramon\\ds\\login\\login\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29207484-23F4-43E1-B850-5C7479930B39}|Login\\Login.csproj|solutionrelative:login\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29207484-23F4-43E1-B850-5C7479930B39}|Login\\Login.csproj|f:\\2a-ds-pi\\4 bimestre duplas\\turma b\\jo\u00E3o a. e ramon\\ds\\login\\login\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29207484-23F4-43E1-B850-5C7479930B39}|Login\\Login.csproj|solutionrelative:login\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29207484-23F4-43E1-B850-5C7479930B39}|Login\\Login.csproj|f:\\2a-ds-pi\\4 bimestre duplas\\turma b\\jo\u00E3o a. e ramon\\ds\\login\\login\\libraries\\login\\logincliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29207484-23F4-43E1-B850-5C7479930B39}|Login\\Login.csproj|solutionrelative:login\\libraries\\login\\logincliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29207484-23F4-43E1-B850-5C7479930B39}|Login\\Login.csproj|f:\\2a-ds-pi\\4 bimestre duplas\\turma b\\jo\u00E3o a. e ramon\\ds\\login\\login\\libraries\\sessao\\sessao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29207484-23F4-43E1-B850-5C7479930B39}|Login\\Login.csproj|solutionrelative:login\\libraries\\sessao\\sessao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29207484-23F4-43E1-B850-5C7479930B39}|Login\\Login.csproj|f:\\2a-ds-pi\\4 bimestre duplas\\turma b\\jo\u00E3o a. e ramon\\ds\\login\\login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29207484-23F4-43E1-B850-5C7479930B39}|Login\\Login.csproj|solutionrelative:login\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29207484-23F4-43E1-B850-5C7479930B39}|Login\\Login.csproj|f:\\2a-ds-pi\\4 bimestre duplas\\turma b\\jo\u00E3o a. e ramon\\ds\\login\\login\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{29207484-23F4-43E1-B850-5C7479930B39}|Login\\Login.csproj|solutionrelative:login\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29207484-23F4-43E1-B850-5C7479930B39}|Login\\Login.csproj|f:\\2a-ds-pi\\4 bimestre duplas\\turma b\\jo\u00E3o a. e ramon\\ds\\login\\login\\libraries\\login\\logincolaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29207484-23F4-43E1-B850-5C7479930B39}|Login\\Login.csproj|solutionrelative:login\\libraries\\login\\logincolaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29207484-23F4-43E1-B850-5C7479930B39}|Login\\Login.csproj|f:\\2a-ds-pi\\4 bimestre duplas\\turma b\\jo\u00E3o a. e ramon\\ds\\login\\login\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29207484-23F4-43E1-B850-5C7479930B39}|Login\\Login.csproj|solutionrelative:login\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29207484-23F4-43E1-B850-5C7479930B39}|Login\\Login.csproj|f:\\2a-ds-pi\\4 bimestre duplas\\turma b\\jo\u00E3o a. e ramon\\ds\\login\\login\\login.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{29207484-23F4-43E1-B850-5C7479930B39}|Login\\Login.csproj|solutionrelative:login\\login.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29207484-23F4-43E1-B850-5C7479930B39}|Login\\Login.csproj|f:\\2a-ds-pi\\4 bimestre duplas\\turma b\\jo\u00E3o a. e ramon\\ds\\login\\login\\repository\\colaboradorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29207484-23F4-43E1-B850-5C7479930B39}|Login\\Login.csproj|solutionrelative:login\\repository\\colaboradorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29207484-23F4-43E1-B850-5C7479930B39}|Login\\Login.csproj|f:\\2a-ds-pi\\4 bimestre duplas\\turma b\\jo\u00E3o a. e ramon\\ds\\login\\login\\repository\\contract\\icolaboradorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29207484-23F4-43E1-B850-5C7479930B39}|Login\\Login.csproj|solutionrelative:login\\repository\\contract\\icolaboradorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29207484-23F4-43E1-B850-5C7479930B39}|Login\\Login.csproj|f:\\2a-ds-pi\\4 bimestre duplas\\turma b\\jo\u00E3o a. e ramon\\ds\\login\\login\\repository\\contract\\iclienterepositiry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29207484-23F4-43E1-B850-5C7479930B39}|Login\\Login.csproj|solutionrelative:login\\repository\\contract\\iclienterepositiry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29207484-23F4-43E1-B850-5C7479930B39}|Login\\Login.csproj|f:\\2a-ds-pi\\4 bimestre duplas\\turma b\\jo\u00E3o a. e ramon\\ds\\login\\login\\models\\colaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29207484-23F4-43E1-B850-5C7479930B39}|Login\\Login.csproj|solutionrelative:login\\models\\colaborador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29207484-23F4-43E1-B850-5C7479930B39}|Login\\Login.csproj|f:\\2a-ds-pi\\4 bimestre duplas\\turma b\\jo\u00E3o a. e ramon\\ds\\login\\login\\models\\constant\\colaboradortipoconstante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29207484-23F4-43E1-B850-5C7479930B39}|Login\\Login.csproj|solutionrelative:login\\models\\constant\\colaboradortipoconstante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29207484-23F4-43E1-B850-5C7479930B39}|Login\\Login.csproj|f:\\2a-ds-pi\\4 bimestre duplas\\turma b\\jo\u00E3o a. e ramon\\ds\\login\\login\\models\\constant\\situacaoconstante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29207484-23F4-43E1-B850-5C7479930B39}|Login\\Login.csproj|solutionrelative:login\\models\\constant\\situacaoconstante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\2A-DS-PI\\4 Bimestre duplas\\Turma B\\Jo\u00E3o A. e Ramon\\DS\\Login\\Login\\appsettings.json",
+              "RelativeDocumentMoniker": "Login\\appsettings.json",
+              "ToolTip": "F:\\2A-DS-PI\\4 Bimestre duplas\\Turma B\\Jo\u00E3o A. e Ramon\\DS\\Login\\Login\\appsettings.json",
+              "RelativeToolTip": "Login\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-08T13:16:27.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.csproj",
+              "DocumentMoniker": "F:\\2A-DS-PI\\4 Bimestre duplas\\Turma B\\Jo\u00E3o A. e Ramon\\DS\\Login\\Login\\Login.csproj",
+              "RelativeDocumentMoniker": "Login\\Login.csproj",
+              "ToolTip": "F:\\2A-DS-PI\\4 Bimestre duplas\\Turma B\\Jo\u00E3o A. e Ramon\\DS\\Login\\Login\\Login.csproj",
+              "RelativeToolTip": "Login\\Login.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-01T13:04:41.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "F:\\2A-DS-PI\\4 Bimestre duplas\\Turma B\\Jo\u00E3o A. e Ramon\\DS\\Login\\Login\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Login\\appsettings.Development.json",
+              "ToolTip": "F:\\2A-DS-PI\\4 Bimestre duplas\\Turma B\\Jo\u00E3o A. e Ramon\\DS\\Login\\Login\\appsettings.Development.json",
+              "RelativeToolTip": "Login\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-09T12:09:54.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\2A-DS-PI\\4 Bimestre duplas\\Turma B\\Jo\u00E3o A. e Ramon\\DS\\Login\\Login\\Program.cs",
+              "RelativeDocumentMoniker": "Login\\Program.cs",
+              "ToolTip": "F:\\2A-DS-PI\\4 Bimestre duplas\\Turma B\\Jo\u00E3o A. e Ramon\\DS\\Login\\Login\\Program.cs",
+              "RelativeToolTip": "Login\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T12:12:44.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "F:\\2A-DS-PI\\4 Bimestre duplas\\Turma B\\Jo\u00E3o A. e Ramon\\DS\\Login\\Login\\Repository\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "Login\\Repository\\ClienteRepository.cs",
+              "ToolTip": "F:\\2A-DS-PI\\4 Bimestre duplas\\Turma B\\Jo\u00E3o A. e Ramon\\DS\\Login\\Login\\Repository\\ClienteRepository.cs",
+              "RelativeToolTip": "Login\\Repository\\ClienteRepository.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwC0AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:19:19.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\2A-DS-PI\\4 Bimestre duplas\\Turma B\\Jo\u00E3o A. e Ramon\\DS\\Login\\Login\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Login\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\2A-DS-PI\\4 Bimestre duplas\\Turma B\\Jo\u00E3o A. e Ramon\\DS\\Login\\Login\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Login\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwCAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T11:34:20.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\2A-DS-PI\\4 Bimestre duplas\\Turma B\\Jo\u00E3o A. e Ramon\\DS\\Login\\Login\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Login\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\2A-DS-PI\\4 Bimestre duplas\\Turma B\\Jo\u00E3o A. e Ramon\\DS\\Login\\Login\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Login\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T13:31:31.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PainelCliente.cshtml",
+              "DocumentMoniker": "F:\\2A-DS-PI\\4 Bimestre duplas\\Turma B\\Jo\u00E3o A. e Ramon\\DS\\Login\\Login\\Views\\Home\\PainelCliente.cshtml",
+              "RelativeDocumentMoniker": "Login\\Views\\Home\\PainelCliente.cshtml",
+              "ToolTip": "F:\\2A-DS-PI\\4 Bimestre duplas\\Turma B\\Jo\u00E3o A. e Ramon\\DS\\Login\\Login\\Views\\Home\\PainelCliente.cshtml*",
+              "RelativeToolTip": "Login\\Views\\Home\\PainelCliente.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T11:30:57.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Sessao.cs",
+              "DocumentMoniker": "F:\\2A-DS-PI\\4 Bimestre duplas\\Turma B\\Jo\u00E3o A. e Ramon\\DS\\Login\\Login\\Libraries\\Sessao\\Sessao.cs",
+              "RelativeDocumentMoniker": "Login\\Libraries\\Sessao\\Sessao.cs",
+              "ToolTip": "F:\\2A-DS-PI\\4 Bimestre duplas\\Turma B\\Jo\u00E3o A. e Ramon\\DS\\Login\\Login\\Libraries\\Sessao\\Sessao.cs",
+              "RelativeToolTip": "Login\\Libraries\\Sessao\\Sessao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T13:05:38.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginCliente.cs",
+              "DocumentMoniker": "F:\\2A-DS-PI\\4 Bimestre duplas\\Turma B\\Jo\u00E3o A. e Ramon\\DS\\Login\\Login\\Libraries\\Login\\LoginCliente.cs",
+              "RelativeDocumentMoniker": "Login\\Libraries\\Login\\LoginCliente.cs",
+              "ToolTip": "F:\\2A-DS-PI\\4 Bimestre duplas\\Turma B\\Jo\u00E3o A. e Ramon\\DS\\Login\\Login\\Libraries\\Login\\LoginCliente.cs",
+              "RelativeToolTip": "Login\\Libraries\\Login\\LoginCliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T13:13:51.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginColaborador.cs",
+              "DocumentMoniker": "F:\\2A-DS-PI\\4 Bimestre duplas\\Turma B\\Jo\u00E3o A. e Ramon\\DS\\Login\\Login\\Libraries\\Login\\LoginColaborador.cs",
+              "RelativeDocumentMoniker": "Login\\Libraries\\Login\\LoginColaborador.cs",
+              "ToolTip": "F:\\2A-DS-PI\\4 Bimestre duplas\\Turma B\\Jo\u00E3o A. e Ramon\\DS\\Login\\Login\\Libraries\\Login\\LoginColaborador.cs",
+              "RelativeToolTip": "Login\\Libraries\\Login\\LoginColaborador.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T13:29:03.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "F:\\2A-DS-PI\\4 Bimestre duplas\\Turma B\\Jo\u00E3o A. e Ramon\\DS\\Login\\Login\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "Login\\Views\\Home\\Login.cshtml",
+              "ToolTip": "F:\\2A-DS-PI\\4 Bimestre duplas\\Turma B\\Jo\u00E3o A. e Ramon\\DS\\Login\\Login\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "Login\\Views\\Home\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T11:26:35.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ColaboradorRepository.cs",
+              "DocumentMoniker": "F:\\2A-DS-PI\\4 Bimestre duplas\\Turma B\\Jo\u00E3o A. e Ramon\\DS\\Login\\Login\\Repository\\ColaboradorRepository.cs",
+              "RelativeDocumentMoniker": "Login\\Repository\\ColaboradorRepository.cs",
+              "ToolTip": "F:\\2A-DS-PI\\4 Bimestre duplas\\Turma B\\Jo\u00E3o A. e Ramon\\DS\\Login\\Login\\Repository\\ColaboradorRepository.cs",
+              "RelativeToolTip": "Login\\Repository\\ColaboradorRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA5wBgAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T12:19:23.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IColaboradorRepository.cs",
+              "DocumentMoniker": "F:\\2A-DS-PI\\4 Bimestre duplas\\Turma B\\Jo\u00E3o A. e Ramon\\DS\\Login\\Login\\Repository\\Contract\\IColaboradorRepository.cs",
+              "RelativeDocumentMoniker": "Login\\Repository\\Contract\\IColaboradorRepository.cs",
+              "ToolTip": "F:\\2A-DS-PI\\4 Bimestre duplas\\Turma B\\Jo\u00E3o A. e Ramon\\DS\\Login\\Login\\Repository\\Contract\\IColaboradorRepository.cs",
+              "RelativeToolTip": "Login\\Repository\\Contract\\IColaboradorRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T12:14:25.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "F:\\2A-DS-PI\\4 Bimestre duplas\\Turma B\\Jo\u00E3o A. e Ramon\\DS\\Login\\Login\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Login\\Models\\Cliente.cs",
+              "ToolTip": "F:\\2A-DS-PI\\4 Bimestre duplas\\Turma B\\Jo\u00E3o A. e Ramon\\DS\\Login\\Login\\Models\\Cliente.cs",
+              "RelativeToolTip": "Login\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T12:13:38.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Colaborador.cs",
+              "DocumentMoniker": "F:\\2A-DS-PI\\4 Bimestre duplas\\Turma B\\Jo\u00E3o A. e Ramon\\DS\\Login\\Login\\Models\\Colaborador.cs",
+              "RelativeDocumentMoniker": "Login\\Models\\Colaborador.cs",
+              "ToolTip": "F:\\2A-DS-PI\\4 Bimestre duplas\\Turma B\\Jo\u00E3o A. e Ramon\\DS\\Login\\Login\\Models\\Colaborador.cs",
+              "RelativeToolTip": "Login\\Models\\Colaborador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T12:30:58.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ColaboradorTipoConstante.cs",
+              "DocumentMoniker": "F:\\2A-DS-PI\\4 Bimestre duplas\\Turma B\\Jo\u00E3o A. e Ramon\\DS\\Login\\Login\\Models\\Constant\\ColaboradorTipoConstante.cs",
+              "RelativeDocumentMoniker": "Login\\Models\\Constant\\ColaboradorTipoConstante.cs",
+              "ToolTip": "F:\\2A-DS-PI\\4 Bimestre duplas\\Turma B\\Jo\u00E3o A. e Ramon\\DS\\Login\\Login\\Models\\Constant\\ColaboradorTipoConstante.cs",
+              "RelativeToolTip": "Login\\Models\\Constant\\ColaboradorTipoConstante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:03:53.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SituacaoConstante.cs",
+              "DocumentMoniker": "F:\\2A-DS-PI\\4 Bimestre duplas\\Turma B\\Jo\u00E3o A. e Ramon\\DS\\Login\\Login\\Models\\Constant\\SituacaoConstante.cs",
+              "RelativeDocumentMoniker": "Login\\Models\\Constant\\SituacaoConstante.cs",
+              "ToolTip": "F:\\2A-DS-PI\\4 Bimestre duplas\\Turma B\\Jo\u00E3o A. e Ramon\\DS\\Login\\Login\\Models\\Constant\\SituacaoConstante.cs",
+              "RelativeToolTip": "Login\\Models\\Constant\\SituacaoConstante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:04:11.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IClienteRepositiry.cs",
+              "DocumentMoniker": "F:\\2A-DS-PI\\4 Bimestre duplas\\Turma B\\Jo\u00E3o A. e Ramon\\DS\\Login\\Login\\Repository\\Contract\\IClienteRepositiry.cs",
+              "RelativeDocumentMoniker": "Login\\Repository\\Contract\\IClienteRepositiry.cs",
+              "ToolTip": "F:\\2A-DS-PI\\4 Bimestre duplas\\Turma B\\Jo\u00E3o A. e Ramon\\DS\\Login\\Login\\Repository\\Contract\\IClienteRepositiry.cs",
+              "RelativeToolTip": "Login\\Repository\\Contract\\IClienteRepositiry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:10:33.581Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
